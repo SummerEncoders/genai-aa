@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { ConnectWallet } from "@thirdweb-dev/react";
+import { ConnectButton } from "@rainbow-me/rainbowkit";
 
 export default function NavBar() {
   return (
@@ -24,7 +24,7 @@ export default function NavBar() {
 
         <div className="lg:flex lg:flex-1 lg:justify-end">
           <div className="text-sm font-semibold leading-6 text-gray-900">
-            <ConnectWallet />
+            <ConnectButton />
           </div>
         </div>
       </nav>
