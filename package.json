@@ -12,6 +12,7 @@
     "@gelatonetwork/relay-sdk": "^5.2.0",
     "@heroicons/react": "^2.0.18",
     "@rainbow-me/rainbowkit": "^1.0.9",
+    "@types/lodash.merge": "^4.6.7",
     "@types/node": "20.5.7",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
